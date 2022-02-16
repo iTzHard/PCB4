@@ -8,5 +8,5 @@ Minimalist 38 key keyboard designed for BVC2013, the layout is derived from The 
 I don't plan to order this design, feel free to bug me on Discord or Twitter if you find any problems or need any help.
 
 
-[Absolem Club](https://discord.gg/absolemclub)
+[Absolem Club](https://discord.gg/3zNn5PtJ)
 
